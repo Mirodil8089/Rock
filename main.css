@@ -1,0 +1,66 @@
+body{
+    background: url(./img/Rectangle\ 236\ \(1\).jpg)no-repeat;  
+}
+.sty{
+    color: rgb(192, 93, 93);
+    margin-left: 590px;
+    font-size: 110px;
+    margin-top: -60px;
+}
+.mrt{
+    margin-left: 600px;
+    margin-top: -20px;
+}
+button{
+    border: none;
+    width: 180px;
+    height: 40px;
+}
+.lorem{
+    margin-left: 830px;
+    font-size: 20px;
+    margin-top: -35px;
+    color: rgb(188, 74, 74);
+}
+.img2{
+    margin-top: 400px;
+    margin-left: 250px;
+}
+.gpt{
+    background: url(./img/Rectangle\ 237\ \(1\).png);
+}
+.jpg{
+    background: url(./img/Rectangle\ 238.png);
+}
+.svg{
+    margin-left: 40px;
+}
+.png p{
+    color: rgb(182, 86, 86);
+    margin-left: 250px;
+    margin-top: -35px;
+    font-size: 20px;
+}
+.video img{
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.btn1 p{
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-top: 40px;       
+    background-color: rgb(215, 89, 89);
+    border-radius: 20px;
+    border: 2px solid blue;
+}
+.btn2{
+    background: linear-gradient(90deg,pink,rgb(231, 103, 103));
+    margin-left: 90px;
+    border-radius: 20px;
+}
+
